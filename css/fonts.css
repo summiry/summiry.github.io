@@ -33,9 +33,10 @@
     content: '\e91a'; }
   .iconfont.icon-arrow-right::before {
     content: '\e636'; }
-  .icon-douban:before {
+    
+  .iconfont.icon-douban:before {
     content: "\e691"; }
-  .icon-zhihu:before {
+  .iconfont.icon-zhihu:before {
     content: "\e69a"; }
-  .icon-zcool:before {
+  .iconfont.icon-zcool:before {
     content: "\e638"; }
