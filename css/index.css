@@ -55,6 +55,12 @@ body {
     content: '\e91a'; }
   .iconfont.icon-arrow-right::before {
     content: '\e636'; }
+  .iconfont.icon-douban:before {
+    content: "\e691"; }
+  .iconfont.icon-zhihu:before {
+    content: "\e69a"; }
+  .iconfont.icon-zcool:before {
+    content: "\e638"; }
 
 .f-fl {
   float: left; }
